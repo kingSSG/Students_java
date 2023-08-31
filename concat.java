@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
 
-    // create first string
+    // createing a string
     String first = "Java";
     System.out.println("First String: " + first);
 
