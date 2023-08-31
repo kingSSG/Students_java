@@ -6,7 +6,7 @@ class Main
         //-------------------
         String s2="Adithya";
         //-------------------
-        //String s3="Adi";
+        String s3="Adi";
         
         boolean x=s1.equals(s2);
         System.out.println("Compare s1 and s2:"+x);
@@ -25,6 +25,11 @@ class Main
         
         System.out.println(s1.substring(0,4)); 
         
-        System.out.println(s1.substring(4));  
+        System.out.println(s1.substring(4)); 
+        
+        System.out.println(s1.startsWith("A"));
+        
+        System.out.println(s1.endsWith("a"));  
+        
     }
 }
