@@ -1,7 +1,7 @@
 public class Main
 {
 public static void main(String[] args) {
-String s = "shdfjnsdjh^gghgg&^&^$%^$%fhjh67578575";
+String s = "A Complete List of GitHub Profile Badges and Achievements - GitHub - drknzz/GitHub-Achievements: A Complete List of GitHub Profile Badges and";
 int lc=0,Uc=0,no=0,sc=0,sp=0;
 
 for ( int i =0 ; i<s.length(); i++)
